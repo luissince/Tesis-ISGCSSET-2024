@@ -2,6 +2,22 @@
 
 Este proyecto se centra en la implementación de un sistema de geolocalización para los vehículos de limpieza pública en la municipalidad distrital de Huayucachi, Perú.
 
+## Antecedentes
+
+- https://repositorio.upea.bo/jspui/bitstream/123456789/113/1/TESIS-Maribel%20Ana%20Cruz%20Sirpa.pdf
+- http://www.scielo.org.co/scielo.php?pid=S0121-49932009000200002&script=sci_arttext
+- https://dialnet.unirioja.es/servlet/articulo?codigo=9071228
+- https://repository.udistrital.edu.co/handle/11349/6736
+- http://www.scielo.org.co/scielo.php?pid=S1794-12372019000100145&script=sci_arttext
+- https://repositorio.usmp.edu.pe/bitstream/handle/20.500.12727/1030/cordova_ja.pdf?sequence=1&isAllowed=y
+- https://repositorio.unac.edu.pe/bitstream/handle/20.500.12952/4489/TESIS%20COAQUIRA%20TORRES%20Y%20HUERTA%20ROJAS%20corregido.pdf?sequence=1&isAllowed=y
+- https://repositorio.uladech.edu.pe/bitstream/handle/20.500.13032/26251/SISTEMA_WEB_ALBURQUEQUE_AREVALO_NICOLE.pdf?sequence=3&isAllowed=y
+- https://dspace.ups.edu.ec/bitstream/123456789/16114/1/UPS-GT002316.pdf
+- https://repositorio.usmp.edu.pe/bitstream/handle/20.500.12727/1030/cordova_ja.pdf?sequence=1&isAllowed=y
+- https://repositorio.unac.edu.pe/bitstream/handle/20.500.12952/4489/TESIS%20COAQUIRA%20TORRES%20Y%20HUERTA%20ROJAS%20corregido.pdf?sequence=1&isAllowed=y
+- https://repositorio.uladech.edu.pe/bitstream/handle/20.500.13032/26251/SISTEMA_WEB_ALBURQUEQUE_AREVALO_NICOLE.pdf?sequence=3&isAllowed=y
+- https://dspace.ups.edu.ec/bitstream/123456789/16114/1/UPS-GT002316.pdf
+
 ## Descripción
 
 El servicio de limpieza pública es crucial para mantener una ciudad limpia, habitable y con un menor riesgo para la salud de sus habitantes. Gran parte de este servicio se lleva a cabo mediante la recolección de residuos sólidos, para lo cual se utilizan diversos tipos de vehículos especializados.
@@ -20,6 +36,8 @@ Actualmente, los vehículos de limpieza pública operan con rutas programadas y 
 ## Metodología
 
 El proyecto se llevará a cabo mediante las siguientes etapas:
+
+- https://upla.edu.pe/nw/wp-content/uploads/2023/02/Libro_UPLA_Metodologia_investigacion_omyc.pdf
 
 1. Evaluación de las necesidades y requisitos del sistema de geolocalización.
 2. Selección y adquisición de la tecnología adecuada.
