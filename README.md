@@ -100,7 +100,7 @@ Este sistema no solo mejora la seguridad de los estudiantes durante su trayecto 
 
 Este sistema es práctico, escalable y responde a una necesidad importante de seguridad, con aplicaciones directas en el contexto del transporte escolar.
 
-Si necesitas más detalles o ajustes en la propuesta, ¡avísame!
+## Medición de Satisfacción y Confianza
 
 Para medir el **nivel de satisfacción y confianza** de los usuarios (en este caso, padres, administradores y operadores) en relación con el sistema de **geolocalización y cámaras de seguridad** antes y después de la implementación, es importante diseñar un **pre-test** y un **post-test** que permitan medir de manera objetiva cómo cambia la percepción de los usuarios sobre la seguridad, eficiencia y confiabilidad del servicio.
 
@@ -188,6 +188,8 @@ Para obtener datos útiles, es recomendable usar **encuestas** o **cuestionarios
 
 ### **Conclusión:**
 Este enfoque te permitirá medir de manera efectiva el impacto de tu sistema en la satisfacción y confianza de los usuarios. Puedes utilizar herramientas como las encuestas estructuradas con escalas de Likert, CSAT y un índice de confianza para obtener datos cuantificables y compararlos entre el pre-test y el post-test. Con estos resultados, podrás evaluar la efectividad del sistema y realizar mejoras si es necesario.
+
+## Grupo de Control
 
 No es estrictamente necesario utilizar un **grupo de control** para la investigación que mide la **satisfacción y confianza** de los usuarios antes y después de la implementación del sistema de **geolocalización y cámaras de seguridad** en el transporte escolar. Sin embargo, el uso de un grupo de control podría mejorar la validez y la confiabilidad de los resultados si lo que deseas es obtener una evaluación más robusta del impacto del sistema.
 
