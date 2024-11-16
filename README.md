@@ -1,4 +1,4 @@
-## Desarrollo e implementación de un sistema de geolocalización y cámaras de seguridad para mejorar la seguridad y eficiencia en el transporte escolar."**
+## Desarrollo e implementación de un sistema de geolocalización y cámaras de seguridad para mejorar la seguridad y eficiencia en el transporte escolar.
 
 ---
 
