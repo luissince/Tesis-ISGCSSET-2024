@@ -1,9 +1,4 @@
-Una tesis que proponga un **sistema de geolocalización y cámaras de seguridad** para una empresa de transporte escolar puede ser una excelente opción, ya que resuelve problemas de seguridad y gestión en tiempo real, áreas de alta preocupación para padres y escuelas. Aquí te dejo una estructura para desarrollar tu tesis:
-
----
-
-### **Título propuesto:**
-**"Desarrollo e implementación de un sistema de geolocalización y cámaras de seguridad para mejorar la seguridad y eficiencia en el transporte escolar."**
+## Desarrollo e implementación de un sistema de geolocalización y cámaras de seguridad para mejorar la seguridad y eficiencia en el transporte escolar."**
 
 ---
 
